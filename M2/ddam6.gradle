@@ -9,7 +9,7 @@ dependencies {
 jar {
     manifest {
         attributes 'Impementation-Title' : 'M2 project',
-                        'Implementation-Version': '1.0'
+                        'Implementation-Version': '1.0',
                         'Main-Class': 'edu.gatech.oad.antlab.pkg1.AntLabMain',
                         'Class-Path': '../../lib/resources.jar'
     }
